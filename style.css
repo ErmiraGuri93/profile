@@ -1,0 +1,76 @@
+body {
+  background-color: azure;
+  font-family: "Open Sans", sans-serif;
+  color:darkslategray;
+  font-size: small;
+  line-height: 20px;;
+}
+h3, h1 {
+  color:rgb(159, 113, 152);
+  line-height: 21px;
+
+}
+a{
+  color:darkcyan;
+  text-decoration: none;
+}
+a:hover{
+  color:darkslategray;
+}
+.container{
+  width: 500px;   /* This sets the width */
+  margin: 0 auto;
+}
+.container{
+width: 700px;
+margin: 0 auto;
+text-align: center;
+}
+ul {
+  padding: 0;
+}
+
+li {
+  display: inline;
+}
+
+i {
+  font-size: 50px;
+  margin-right: 8px;
+  color: #6B72E1;
+}
+
+i:hover {
+  color: black;
+}
+.conatiner a{
+  padding: 16px;
+}
+.btn-purple{
+  background-color: #6B72E1;
+  color:white;
+  font-family: "Montserrat", sans-serif;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+.white-card{
+  border-radius: 3px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+  margin-top:40px;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+.white-card h2{
+  line-height:5px;
+}
+.first-card{
+  padding: 30px;
+}
+.second-card{
+  padding-bottom: 15px;
+}
+#avatar {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
